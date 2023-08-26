@@ -1,7 +1,7 @@
 {
   "name": "mham-common",
-  "version": "1.0.1",
-  "main": "index.ts",
+  "version": "1.0.3",
+  "main": "index.js",
   "license": "UNLICENSED",
   "description": "common types and utility",
   "dependencies": {
