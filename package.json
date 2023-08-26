@@ -1,6 +1,6 @@
 {
   "name": "mham-common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.ts",
   "license": "UNLICENSED",
   "description": "common types and utility",
