@@ -1,0 +1,16 @@
+{
+  "name": "mham-common",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "UNLICENSED",
+  "description": "common types and utility",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-azouz/mham-common.git"
+  },
+  "author": "mohamed",
+  "bugs": {
+    "url": "https://github.com/muhammad-azouz/mham-common/issues"
+  },
+  "homepage": "https://github.com/muhammad-azouz/mham-common#readme"
+}
