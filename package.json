@@ -4,6 +4,9 @@
   "main": "index.ts",
   "license": "UNLICENSED",
   "description": "common types and utility",
+  "dependencies": {
+    "zod": "^3.21.4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muhammad-azouz/mham-common.git"
